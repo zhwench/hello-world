@@ -1,0 +1,9 @@
+
+/* Class = "IBUITextField"; placeholder = "Your Name"; ObjectID = "IYI-ht-aLR"; */
+"IYI-ht-aLR.placeholder" = "Your Name";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "jdC-QD-Hyp"; */
+"jdC-QD-Hyp.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "Hello"; ObjectID = "tUM-Zn-4ta"; */
+"tUM-Zn-4ta.normalTitle" = "Hello";
